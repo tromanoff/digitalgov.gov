@@ -79,7 +79,7 @@ As Phase 4 continued, the 10x team:
 - drafted content contribution guidelines, content publication governance and workflow recommendations, and potential funding mechanisms to guide and sustain resources.data.gov into the future.
 - The 10x project team’s final action on the project was to turn future management of resources.data.gov over to the GSA TTS Solutions Data & Analytics Portfolio, where, along with Data.gov proper, it will be overseen by Phil Ashlock—coincidentally, returning it to the place where it started as an idea four years ago. 
 
-The 10x program is confident that resources.data.gov will continue to be nurtured in the Data & Analytics Portfolio and excited to see the repository continue to grow and deliver on its promise. 
+The 10x program is confident that resources.data.gov will continue to be nurtured in the Data & Analytics Portfolio and excited to see the repository continue to grow and deliver on its promise.  
 
 Thank you to all the 18F staff who worked on the various phases of the 10x Data Federation project: Julia Lindpaintner, Mike Gintz, Princess Ojiaku, James Tranovich, Amy Mok, Ethan Heppner, Mark Headd, Chris Goranson, Catherine Devlin, Joe Kryzstan, Tony Garvan. 
 
